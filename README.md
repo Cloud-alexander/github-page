@@ -1,2 +1,2 @@
 # github-page
-Our first githib page
+Our first github page
